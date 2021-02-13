@@ -1,0 +1,23 @@
+	A CAFE SHOP
+	VATREGIN #534-345-567-234
+	Olongapo City Sports Complex,
+	Gordon College,Philippine,
+	Lungsod ng Olongapo, Zambales
+
+	12/02/20 23:39:47
+
+	CUSTOMER: Lim
+	CASHIER: Manuel
+--------------------------------------------------------
+
+	Product		Price	# of	 Amount
+	Name			Cups	
+
+	Iced Coffee	30	2	60 pesos
+--------------------------------------------------------
+
+	Amount: 60 pesos
+	VAT: 2.24 pesos
+	Total Amount: 62.24
+	Payment: 70 pesos
+	Change: 7.76 pesos

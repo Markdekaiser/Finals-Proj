@@ -1,0 +1,23 @@
+	A CAFE SHOP
+	VATREGIN #534-345-567-234
+	Olongapo City Sports Complex,
+	Gordon College,Philippine,
+	Lungsod ng Olongapo, Zambales
+
+	12/03/20 23:31:11
+
+	CUSTOMER: asdasdasd
+	CASHIER: ASDa
+--------------------------------------------------------
+
+	Product		Price	# of	 Amount
+	Name			Cups	
+
+	Cafe Mocha	35	5	175 pesos
+--------------------------------------------------------
+
+	Amount: 175 pesos
+	VAT: 5.60 pesos
+	Total Amount: 180.60
+	Payment: 23442342 pesos
+	Change: 23442162.00 pesos
